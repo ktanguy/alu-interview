@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-a method called minOperations(n) that calculates
+A method called minOperations(n) that calculates
 the fewest number of operations needed to
 result in exactly n H characters in a text file.
 """
